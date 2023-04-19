@@ -41,7 +41,7 @@ import (
 )
 
 const (
-	defaultBaseURL = "https://gitlab.com/"
+	defaultBaseURL = "https://gitlab.cmss.com/"
 	apiVersionPath = "api/v4/"
 	userAgent      = "go-gitlab"
 
